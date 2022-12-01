@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Syam Prakash Narayanan
-- 👀 I’m a Data Scientist with 4+ years of Industry Experience.
+- 👀 I’m a Data Scientist
 - 🌱 I’m currently learning MLOps
 - 📫 Reach me at - syamprakashnarayanan@outlook.com
 - :speech_balloon: [LinkedIn](https://www.linkedin.com/in/syam-prakash-narayanan)
