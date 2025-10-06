@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syam Prakash Narayanan</h1>
-<h3 align="left">Data scientist with 3 years of industry experience in building data-driven solutions leveraging advanced Machine Learning, Deep Learning, and NLP techniques. Experienced in Data science consulting, collaborating with cross-functional teams, and delivering actionable insights.</h3>
+<h3 align="left">Data scientist with 5 years of industry experience in building data-driven solutions leveraging advanced Machine Learning, Deep Learning, and Gen AI techniques. Experienced in Machine Learning, collaborating with cross-functional teams, and delivering actionable insights.</h3>
 
 - 🔭 I’m currently working on **developing my skills and competencies in Data**
 
-- 🌱 I’m currently learning **MLOps and Cloud.**
+- 🌱 I’m currently learning **MLOps and LLMs.**
 
 - 📫 How to reach me **syamprakashnarayanan@gmail.com**
 
